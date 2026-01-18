@@ -51,3 +51,20 @@ Node.js
 CORS
 
 JSON file-based product management
+
+📁 Folder Structure:
+/codefiy-product-app
+ ├── app
+ │   ├── page.jsx
+ │   ├── add-product/page.jsx
+ │   ├── products/page.jsx
+ │   └── layout.jsx
+ ├── components
+ │   └── ProductForm.jsx
+ ├── lib
+ │   └── api.js
+ ├── server
+ │   └── server.js
+ ├── public
+ └── README.md
+
