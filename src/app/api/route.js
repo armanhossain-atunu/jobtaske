@@ -1,0 +1,6 @@
+export async function GET() {
+  return Response.json(
+    { message: "API is running" },
+    { status: 200 }
+  );
+}

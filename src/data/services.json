@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "name": "Web Design",
+    "description": "Modern, responsive, and SEO-friendly website design for businesses and personal brands.",
+    "price": 499,
+    "image": "https://i.ibb.co.com/tpY98CQr/fall-web-design-trends1-scaled.jpg",
+    "icon": "https://i.ibb.co.com/p6FL8LZh/5234318.png",
+    "details": "Includes homepage, about page, services page, contact form, responsive layout, and basic SEO setup.",
+    "reviews": [
+      {
+        "user": "Nishat",
+        "userImage": "/images/users/nishat.jpg",
+        "rating": 5,
+        "comment": "Amazing design! Very clean and professional."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Full Stack Development",
+    "description": "End-to-end MERN stack development with robust backend and elegant UI.",
+    "price": 899,
+    "image": "https://i.ibb.co.com/W4cGZT5y/unnamed.png",
+    "icon": "https://i.ibb.co.com/PzVz0zKk/120230727140419.png",
+    "details": "Includes API development, authentication, database integration, admin panel, and deployment.",
+    "reviews": [
+      {
+        "user": "Rafi",
+        "userImage": "/images/users/rafi.jpg",
+        "rating": 5,
+        "comment": "Full functional app delivered on time. Great experience!"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Portfolio Builder",
+    "description": "Automatic developer portfolio generator based on your uploaded content.",
+    "price": 199,
+    "image": "https://i.ibb.co.com/QvHCLjmB/how-to-make-an-online-portfolio.png",
+    "icon": "https://i.ibb.co.com/8nJX7rvf/5673853.png",
+    "details": "Includes sections for skills, projects, experience, blog, contact form, and custom theme options.",
+    "reviews": [
+      {
+        "user": "Ariana",
+        "userImage": "/images/users/ariana.jpg",
+        "rating": 4,
+        "comment": "Very useful tool! My portfolio looks great."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Branding Kit",
+    "description": "Complete branding package for small businesses and startups.",
+    "price": 149,
+    "image": "https://i.ibb.co.com/B5pCZbLW/fej-LLIr-OZ5l-Ov-Sgsb-WPWp69tl94.avif",
+    "icon": "https://i.ibb.co.com/Kx4Ywbkj/2980279.png",
+    "details": "Includes logo design, color palette, typography, brand guidelines, and social media templates.",
+    "reviews": [
+      {
+        "user": "Mehedi",
+        "userImage": "/images/users/mehedi.jpg",
+        "rating": 5,
+        "comment": "Loved the logo and color palette. Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "SEO Optimization",
+    "description": "Improve rankings, site performance, and visibility across search engines.",
+    "price": 299,
+    "image": "https://i.ibb.co.com/QvGdf3J9/Adobe-Stock-275879381.jpg",
+    "icon": "https://i.ibb.co.com/CKH4Qr7D/2835542.png",
+    "details": "Includes technical SEO, keyword research, site audit, speed optimization, and on-page fixes.",
+    "reviews": [
+      {
+        "user": "Tania",
+        "userImage": "https://i.ibb.co.com/8gQ3w7V0/aiony-haust-3-TLl-97-HNJo-unsplash.jpg",
+        "rating": 4,
+        "comment": "My website traffic increased within 3 weeks. Great service!"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Mobile App UI",
+    "description": "Modern mobile application interface design following industry best UX practices.",
+    "price": 349,
+    "image": "https://i.ibb.co.com/fGBjCz83/to-do-list-mobile-app-ui-kit-for-figma-455-1.webp",
+    "icon": "https://i.ibb.co.com/7d4NHMWH/3419222.png",
+    "details": "Includes up to 10 mobile screens, color system, icons, typography, and design system components.",
+    "reviews": [
+      {
+        "user": "Zarif",
+        "userImage": "/images/users/zarif.jpg",
+        "rating": 5,
+        "comment": "The UI design was clean and user-friendly. Perfect for my app!"
+      }
+    ]
+  }
+]
